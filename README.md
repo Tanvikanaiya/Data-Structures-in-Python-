@@ -60,8 +60,8 @@ git clone https://github.com/Tanvikanaiya/data-structures-python-assignment.git
 2. Open the notebook file in Google Colab or Jupyter Notebook.
 3. Run each cell to test the outputs.
 
-## 🙋‍♀️ About Me
-# I’m Tanvi Kanaiya, a data science enthusiast and Python programmer, currently pursuing B.Tech in Computer Science. This assignment helped sharpen my coding logic and gave me practical exposure to data structure fundamentals using Python.
-# 📧 Email: kanaiyatanvi@gmail.com
-# 🔗 LinkedIn Profile
+# 🙋‍♀️ About Me
+## I’m Tanvi Kanaiya, a data science enthusiast and Python programmer, currently pursuing B.Tech in Computer Science. This assignment helped sharpen my coding logic and gave me practical exposure to data structure fundamentals using Python.
+## 📧 Email: kanaiyatanvi@gmail.com
+## 🔗 LinkedIn Profile: https://www.linkedin.com/in/tanvi-kanaiya-a66b9a24a/
 
