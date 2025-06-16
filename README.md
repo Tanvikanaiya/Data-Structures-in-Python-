@@ -56,7 +56,7 @@ set1.union(set2)
 ```
 ## 🚀 How to Run
 1. Clone the repository
-git clone https://github.com/your-username/data-structures-python-assignment.git
+git clone https://github.com/Tanvikanaiya/data-structures-python-assignment.git
 2. Open the notebook file in Google Colab or Jupyter Notebook.
 3. Run each cell to test the outputs.
 
